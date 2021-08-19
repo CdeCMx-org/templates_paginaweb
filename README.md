@@ -1,18 +1,19 @@
-## Nombre de proyecto
-
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
-
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
-
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
+Satelites bird´s eye
 
 ### Introducción
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+## ¿Que es un satélite?
+### Un satélite es algún astro o máquina que orbita un planeta o una estrella. Puede ser natural como la Luna que se encuentra en orbita alrededor de la Tierra y a su vez este se encuentra en orbita alrededor del Sol por lo tanto támbien es un satélite natural. 
+
+# Satélites artificiales 
+### Normalmente cuando nos referimos a un satélite pensamos en aquellas máquinas que se lanzan al espacio y se mueven alrededor de nuestro planeta u otro cuerpo en el espacio.
+
+## ¿Que funciones poseen los satélites artificiales?
+### Los satélites son herramientas importantes que se utilizan para cumplir varios objetivos, como el de tomar fotografías del planeta que ayudan a los meteorólogos a predecir el clima y rastrear los huracanes. Támbien tomar fotografías de otros planetas para conocer más de ellos, el sol, agujeros negros, materia oscura o galaxias lejanas. Todas estas imágenes ayudan a los científicos a comprender mejor el sistema solar y el universo.
+
+## Satélites en la comunicación humana
+### Existen satélites que se utilizan principalmente para comunicaciones, como la transmisión de señales de televisión y llamadas telefónicas en todo el mundo. Un grupo de más de 20 satélites conforma el Sistema de Posicionamiento Global **GPS**, con el cuál se puede determinar su ubicación exacta.
+
 
 ### Métodología
 
